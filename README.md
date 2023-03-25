@@ -1,5 +1,5 @@
 # Docker - Node and MySQL Demo
-
+### Note : Storing password in plaintext is not secure and best practice. 
 As a part of this demo we are going to do connectivity between Node docker container and mysql docker continer. We are going to permoform below operations.
 1. Connect to Database
 2. Create Table
